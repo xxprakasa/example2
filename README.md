@@ -1,2 +1,2 @@
 # example2
-example buat file dan branch langsung dari github
+ini hasil yang udah di edit
